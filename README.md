@@ -1,2 +1,0 @@
-# ballXblock
-Unity WebGL Game
